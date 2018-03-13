@@ -1,3 +1,7 @@
+#Compiled JS
+/app/*.js
+/app/*.js.map
+
 # Logs
 logs
 *.log
